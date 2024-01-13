@@ -11,7 +11,6 @@ import { getAuth } from 'firebase/auth'
 const firebaseConfig = {
     apiKey: "AIzaSyALa6v4dDa9VwbpbmaKRvWcjgcX3XeC_2U",
     authDomain: "flixxit-netflix-clone-7f1d6.firebaseapp.com",
-    databaseURL: 'https://next-firebase-stripe-39bf8-default-rtdb.firebaseio.com',
     projectId: "flixxit-netflix-clone-7f1d6",
     storageBucket: "flixxit-netflix-clone-7f1d6.appspot.com",
     messagingSenderId: "609028647781",
